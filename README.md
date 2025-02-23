@@ -1,4 +1,4 @@
-# Chat App
+# Balanced Meal App
 **The Goal**<br/>
 The goal of this app was to create an ordering app for Balanced Meal, that helps users select the ingredients they want to add to their meal based on their nutritional facts.
 
