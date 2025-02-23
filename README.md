@@ -1,16 +1,24 @@
-# balanced_meal
+# Chat App
+**The Goal**<br/>
+The goal of this app was to create an ordering app for Balanced Meal, that helps users select the ingredients they want to add to their meal based on their nutritional facts.
 
-A new Flutter project.
+## What I Built
+I built a modern ordering app where users can choose their ingredients based on their nutritional needs, and the app then provides a meal that aligns with their preferences.
 
-## Getting Started
+## The Finished App
+In the end, I successfully created a functional ordering app where users can select meal ingredients from a list.
 
-This project is a starting point for a Flutter application.
+## App PreView Demo
+![Balanced Meal app](https://github.com/user-attachments/assets/ce7eb3b5-6962-46e0-bbd7-dba63a0abd27)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## What I Learned
+**I revisited the following concepts:**<br/>
+• Using ListViews to create scrollable views.<br/>
+• How to implement scrollable views using ListView widget.<br/>
+• How to integrate Firebase into my Flutter projects.<br/>
+• How to use Firebase Cloud Firestore to store and retrieve data efficiently.<br/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**I learned the following concepts:**<br/>
+• How to post data to an API.<br/>
+• How to create nested lists with different axis levels.<br/>
